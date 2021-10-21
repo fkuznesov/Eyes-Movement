@@ -1,3 +1,3 @@
-# Eyes
-## Exercise on eyes
+# Eyes Movement
+## Exercise on eyes movement
 
